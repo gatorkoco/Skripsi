@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Nama Lengkap"
+        android:textStyle="bold"
+        android:textSize="@dimen/dimens_16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txtNamaLengkap"
+        android:layout_marginTop="10dp"
+        android:hint="@string/loading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="Jenis Kelamin"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="@dimen/dimens_16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txtJenisKelamin"
+        android:layout_marginTop="10dp"
+        android:hint="@string/loading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="Usia"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="@dimen/dimens_16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txtUsia"
+        android:layout_marginTop="10dp"
+        android:hint="@string/loading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

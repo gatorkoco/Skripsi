@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139642308142",
+    "firebase_url": "https://skripsi-57074.firebaseio.com",
+    "project_id": "skripsi-57074",
+    "storage_bucket": "skripsi-57074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139642308142:android:e12dfbf92968230c",
+        "android_client_info": {
+          "package_name": "com.example.gatotkoco.monitoringjantung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139642308142-ebiaajshngqc3lmh7ndlhv4m4hpj962b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gatotkoco.monitoringjantung",
+            "certificate_hash": "a709c69771879d3609705afdce6bb3a74175e298"
+          }
+        },
+        {
+          "client_id": "139642308142-vs6kb9omff6bhmpvfl9mkqbatce42suq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0cxGvxQ5A-6MFUeLFuzZembun8Ze23s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139642308142-vs6kb9omff6bhmpvfl9mkqbatce42suq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
